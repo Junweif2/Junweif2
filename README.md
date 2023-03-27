@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Junweif2/Junweif2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
